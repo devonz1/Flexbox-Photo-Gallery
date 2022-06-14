@@ -1,2 +1,4 @@
 # Flexbox-Photo-Gallery
-Photo Gallery Mad with Css Flexbox
+Photo Gallery Made with Css Flexbox
+
+Summer Family Resort
