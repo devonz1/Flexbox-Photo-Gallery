@@ -5,13 +5,13 @@
   body {
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background: #fdfdfd;
+    background: #fde39a;
   }
   
   .header {
     text-align: center;
     padding: 32px;
-    background: #fdfdfd;
+    background: #fde39a;
   }
   
   #gallery {
